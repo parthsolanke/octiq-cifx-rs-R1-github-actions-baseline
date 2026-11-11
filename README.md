@@ -1,3 +1,4 @@
+<!-- Project README -->
 # R1-github-actions-baseline
 
 AC 3. GitHub Actions detection must be unchanged.
